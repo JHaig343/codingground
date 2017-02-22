@@ -1,0 +1,3 @@
+int Average();
+
+int Remainder();
